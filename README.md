@@ -1,6 +1,11 @@
 # geezy
 
+[![Build Status](https://travis-ci.org/booyaa/geezy.svg?branch=master)](https://travis-ci.org/booyaa/geezy)
+
 A collection of Geodetical functions
+
+Full documentation can be found [here](https://booyaa.github.io/geezy/geezy/index.html).
+
 
 # Usage
 

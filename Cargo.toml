@@ -1,9 +1,10 @@
 [package]
 name = "geezy"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Mark Sta Ana <booyaabooyaabooyaa@gmail.com>"]
 description = "A collection of Geodetical functions"
 repository = "https://github.com/booyaa/geezy"
+documentation = "https://booyaa.github.io/geezy/geezy/index.html"
 readme = "README.md"
 keywords = ["geodesy","gps","latitude","longitude","geodetics"]
 license = "Apache-2.0"

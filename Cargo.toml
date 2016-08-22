@@ -5,7 +5,7 @@ authors = ["Mark Sta Ana <booyaabooyaabooyaa@gmail.com>"]
 description = "A collection of Geodetical functions"
 repository = "https://github.com/booyaa/geezy"
 readme = "README.md"
-keywords = ["geodesy","geo","gps","latitude","longitude","geodetics"]
+keywords = ["geodesy","gps","latitude","longitude","geodetics"]
 license = "Apache-2.0"
 
 [dependencies]
